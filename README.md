@@ -6,6 +6,18 @@
 
 - 🌟 I'm also CTO and Chief Software Architect of **[Sinaxys](https://sinaxys.com)**, a job application for healthcare professionals; and co-founder of **[ContaExpert](https://www.contaexpert.com.br)**, an online accounting startup.
 
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=brunnopleffken&show_icons=true&hide_title=true&hide_border=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset=https://github-readme-stats.vercel.app/api?username=brunnopleffken&show_icons=true&hide_title=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunnopleffken&show_icons=true&hide_title=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnopleffken&layout=compact&hide=css,scss,html&langs_count=6&hide_border=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=brunnopleffken&layout=compact&hide=css,scss,html&langs_count=6&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnopleffken&layout=compact&hide=css,scss,html&langs_count=6&hide_border=true" />
+</picture>
+
 ## Stack
 
 **Ruby** (and the **Ruby on Rails** framework) is my main programming language. I'm also experienced in **.NET**, **JavaScript**/**TypeScript** and **PHP**. I've used **Python** for scientific purposes only. And currently I'm learning **Rust**.
