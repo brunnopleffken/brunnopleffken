@@ -1,8 +1,8 @@
 # Hi, I'm Brunno! 🖖🏻
 
-- 🎓 I'm from Curitiba, Brazil. I have a degree in **Physics** at the Pontifical Catholic University of Paraná (PUCPR) and I'm a researcher in the areas of observational astrophysics and spectroscopy.
+- 💼 **Software engineer** from Curitiba, Brazil. Microsoft .NET C# Certified Specialist (heading to AWS Certified Solution Architect), I have over 15 years of computer science experience, specialized in programming languages and computer systems.
 
-- 💼 **Software engineer**, Microsoft .NET C# Certified Specialist (heading to AWS Certified Solution Architect), I have over 15 years of computer science experience, specialized in programming languages and computer systems.
+- 🎓 I have a degree in **Physics** from Pontifical Catholic University of Paraná (PUCPR) where I'm a researcher in the areas of observational astrophysics and spectroscopy.
 
 - 🌟 I'm also CTO and Chief Software Architect of **[Sinaxys](https://sinaxys.com)**, a job application for healthcare professionals; and co-founder of **[ContaExpert](https://www.contaexpert.com.br)**, an online accounting startup.
 
@@ -53,7 +53,7 @@
 
 ## Community
 
-I've contributed **Visual Studio Code**, **Adobe Brackets** (⚰️) and a lot to **DIM Destiny Item Manager**'s new features and translations to Brazilian Portuguese. Throughout my life I created some interesting open source projects:
+I've contributed **Visual Studio Code**, **Adobe Brackets** (⚰️), **Brave Browser** and a lot to **DIM Destiny Item Manager**'s new features and translations to Brazilian Portuguese. Throughout my life I created some interesting open source projects:
 
 - Addictive Community: open-source forum software in PHP _(archived)_.
 - Localizer.js: real-time internationalization of websites in TypeScript.
