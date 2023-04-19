@@ -28,7 +28,7 @@
 
 ## Stack
 
-**Ruby** (and the **Ruby on Rails** framework) is my main programming language. I'm also experienced in **.NET/C#**, **JavaScript**/**TypeScript** and **PHP**. I've used **Python** for scientific purposes only. And currently I'm learning **Rust**.
+**Ruby** (and the **Ruby on Rails** framework) is my main programming language for 7 years. I'm also experienced in **C#** and **.NET Core**, **JavaScript**/**TypeScript** and **PHP**. I've used **Python** for scientific purposes only. And currently I'm learning **Rust**.
 
 <table>
   <tr>
