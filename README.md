@@ -1,6 +1,6 @@
 # Hi, I'm Brunno! 🖖🏻
 
-- 💼 **Software engineer** from Curitiba, Brazil. Microsoft .NET C# Certified Specialist (heading to AWS Certified Solutions Architect), I have over 15 years of computer science experience, specialized in programming languages and computer systems.
+- 💼 **Software engineer** from Curitiba, Brazil. Former **Professor** of Introduction to Programming Languages at PUCPR. Microsoft .NET C# Certified Specialist (heading to AWS Certified Solutions Architect), I have almost 20 years of computer science experience, specialized in programming languages and computer systems.
 
 - 🎓 Bachelor's degree in **Physics** from Pontifical Catholic University of Paraná (PUCPR) where I'm a researcher in the areas of observational astrophysics and spectroscopy.
 
@@ -53,8 +53,8 @@
 
 ## Community
 
-I've contributed **Visual Studio Code**, **Adobe Brackets** (⚰️), **Brave Browser** and a lot to **DIM Destiny Item Manager**'s new features and translations to Brazilian Portuguese. Throughout my life I created some interesting open source projects:
+I've contributed to **Visual Studio Code**, **Adobe Brackets** (⚰️), **Brave Browser** and a lot to **DIM Destiny Item Manager**'s new features and translations to Brazilian Portuguese. Throughout my life I created some interesting open source projects:
 
 - Localizer.js: real-time internationalization of websites in TypeScript.
 - Enchanter: wizard plugin for Bootstrap 5 in TypeScript.
-- - Addictive Community: open-source forum software in PHP _(archived)_.
+- Addictive Community: open-source forum software in PHP _(archived)_.
