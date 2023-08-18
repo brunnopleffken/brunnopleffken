@@ -2,7 +2,7 @@
 
 - 💼 **Software engineer** from Curitiba, Brazil. Former **Professor** of Introduction to Programming Languages at PUCPR. Microsoft .NET C# Certified Specialist (heading to AWS Certified Solutions Architect), I have almost 20 years of computer science experience, specialized in programming languages and computer systems.
 
-- 🎓 Bachelor's degree in **Physics** from Pontifical Catholic University of Paraná (PUCPR) where I'm a researcher in the areas of observational astrophysics and spectroscopy.
+- 🎓 Bachelor's degree in **Physics** from Pontifical Catholic University of Paraná (PUCPR) where I'm researcher in the areas of observational astrophysics and spectroscopy. Science advocate and popularizer, I write and maintain a **[website](https://www.espacotempo.com.br)** about Physics and Astronomy.
 
 - 🌟 I'm also CTO and Chief Software Architect of **[Sinaxys](https://sinaxys.com)**, a job application for healthcare professionals; and co-founder of **[ContaExpert](https://www.contaexpert.com.br)**, an online accounting startup.
 
@@ -28,7 +28,7 @@
 
 ## Stack
 
-**Ruby** (and the **Ruby on Rails** framework) is my main programming language for 7 years. I'm also experienced in **C#** and **.NET Core**, **JavaScript**/**TypeScript** and **PHP**. I've used **Python** for scientific purposes only. And currently I'm learning **Rust**.
+**Ruby** (and the **Ruby on Rails** framework) is my main programming language since 2016. I'm also experienced in **C#** and **.NET Core**, **JavaScript**/**TypeScript** and **PHP**. I've used **Python** for scientific purposes only. And currently I'm learning **Rust**.
 
 <table>
   <tr>
