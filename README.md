@@ -32,19 +32,19 @@
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="48"></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" height="48"></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" height="48"></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/dotnet.svg" height="48"></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript_1.svg" height="48"></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/php.svg" height="48"></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg" height="48"></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/rust.svg" height="48"></td>
   </tr>
   <tr>
+    <td style="text-align: center">AWS</td>
     <td style="text-align: center">Ruby</td>
     <td style="text-align: center">C#</td>
-    <td style="text-align: center">JS</td>
-    <td style="text-align: center">TS</td>
+    <td style="text-align: center">JS/TS</td>
     <td style="text-align: center">PHP</td>
     <td style="text-align: center">Python</td>
     <td style="text-align: center">Rust</td>
