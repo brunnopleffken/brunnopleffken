@@ -1,6 +1,6 @@
 # Hi, I'm Brunno! 🖖🏻
 
-- 💼 **Software engineer** from Curitiba, Brazil. Former **Professor** of Introduction to Programming Languages. Microsoft .NET C# Certified Specialist (heading to AWS Certified Solutions Architect), I have almost 20 years of computer science experience, specialized in programming languages and computer systems.
+- 💼 **Software engineer** from Curitiba, Brazil. Former **Professor** of Introduction to Programming Languages. Microsoft .NET C# Certified Specialist (heading to AWS Solutions Architect), I have almost 20 years of computer science experience, specialized in programming languages, computer systems and infrastructure.
 
 - 🎓 Bachelor's degree in **Physics** from Pontifical Catholic University of Paraná (PUCPR) where I'm researcher in the areas of observational astrophysics and spectroscopy. Science advocate and popularizer, I write and maintain a **[website](https://www.espacotempo.com.br)** about Physics and Astronomy.
 
@@ -26,9 +26,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnopleffken&layout=compact&hide=css,scss,html&langs_count=6&hide_border=true">
 </picture>
 
-## Stack
+## Tech Stack
 
-**Ruby** (and the **Ruby on Rails** framework) is my main programming language since 2016. I'm also experienced in **JavaScript**/**TypeScript**, **C#** and **.NET Core** and **PHP**. I've used **Python** for scientific purposes only. And currently I'm learning **Rust**.
+**Ruby** (and the **Ruby on Rails** framework) is my main programming ecosystem since 2016. I'm also experienced in **JavaScript**/**TypeScript**, **C#/.NET Core** and **PHP**. I've used **Python** for scientific purposes only. And currently I'm learning **Rust**.
 
 <table>
   <tr>
@@ -57,4 +57,4 @@ I've contributed to **Visual Studio Code**, **Adobe Brackets** (⚰️), **Brave
 
 - Localizer.js: real-time internationalization of websites in TypeScript.
 - Enchanter: wizard plugin for Bootstrap 5 in TypeScript.
-- Addictive Community: open-source forum software in PHP _(archived)_.
+- Addictive Community: open-source forum software in PHP _(deprecated)_.
