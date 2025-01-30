@@ -55,6 +55,6 @@
 
 I've contributed to **Visual Studio Code**, **Adobe Brackets** (⚰️), **Brave Browser** and a lot to **DIM Destiny Item Manager**'s new features and translations to Brazilian Portuguese. Throughout my life I created some interesting open source projects:
 
+- Enchanter: wizard plugin for Bootstrap 5 in vanilla JavaScript.
 - Localizer.js: real-time internationalization of websites in TypeScript.
-- Enchanter: wizard plugin for Bootstrap 5 in TypeScript.
 - Addictive Community: open-source forum software in PHP _(deprecated)_.
