@@ -28,7 +28,7 @@
 
 ## Tech Stack
 
-**Ruby** (and the **Ruby on Rails** framework) is my main programming ecosystem since 2016. I'm also experienced in **JavaScript**, **TypeScript**, **C#/.NET Core** and **PHP**. I've used **Python** for scientific purposes only. And currently I'm learning **Rust**.
+**Ruby** (and the **Ruby on Rails** framework) is my main programming ecosystem since 2016. I'm also experienced in **JavaScript**, **TypeScript**, **C#/.NET Core** and **PHP**. I've used **Python** for scientific purposes only.
 
 <table>
   <tr>
