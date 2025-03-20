@@ -30,26 +30,7 @@
 
 **Ruby** (and the **Ruby on Rails** framework) is my main programming ecosystem since 2016. I'm also experienced in **JavaScript**, **TypeScript**, **C#/.NET Core** and **PHP**. I've used **Python** for scientific purposes only.
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/dotnet.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript_1.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/php.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg" height="48"></td>
-    <td><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/rust.svg" height="48"></td>
-  </tr>
-  <tr>
-    <td style="text-align: center">AWS</td>
-    <td style="text-align: center">Ruby</td>
-    <td style="text-align: center">C#</td>
-    <td style="text-align: center">JS/TS</td>
-    <td style="text-align: center">PHP</td>
-    <td style="text-align: center">Python</td>
-    <td style="text-align: center">Rust</td>
-  </tr>
-</table>
+[![Tech Stack](https://skillicons.dev/icons?i=aws,ruby,cs,js,ts,php,python,cpp)](https://skillicons.dev)
 
 ## Community
 
