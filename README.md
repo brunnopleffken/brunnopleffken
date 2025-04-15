@@ -4,7 +4,7 @@
 
 - 🎓 Bachelor's degree in **Physics** from Pontifical Catholic University of Paraná (PUCPR) where I'm researcher in the areas of observational astrophysics and spectroscopy. Science advocate and popularizer, I write and maintain a **[website](https://www.espacotempo.com.br)** about Physics and Astronomy.
 
-- 🌟 I'm also CTO and Chief Software Architect of **[Sinaxys](https://sinaxys.com)**, a deep-job platform for healthcare professionals; and co-founder of **[ContaExpert](https://www.contaexpert.com.br)**, an online accounting startup.
+- 🌟 I'm also Principal Software Engineer & Software Architect of **[Sinaxys](https://sinaxys.com)**, a deep-job platform for healthcare professionals; and co-founder of **[ContaExpert](https://www.contaexpert.com.br)**, an online accounting startup.
 
 <picture>
   <source
