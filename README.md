@@ -2,7 +2,9 @@
 
 - 💼 **Software engineer** from Curitiba, Brazil. Former **Professor** of Introduction to Programming Languages. Microsoft .NET C# Certified Specialist (heading to AWS Solutions Architect), I have almost 20 years of computer science experience, specialized in programming languages, computer systems and infrastructure.
 
-- 🎓 Bachelor's degree in **Physics** from Pontifical Catholic University of Paraná (PUCPR) where I'm researcher in the areas of observational astrophysics and spectroscopy. Science advocate and popularizer, I write and maintain a **[website](https://www.espacotempo.com.br)** about Physics and Astronomy.
+- 🎓 Postgraduate in **High-Performance Computing (HPC)**. Bachelor's degree in **Physics** from Pontifical Catholic University of Paraná (PUCPR) where I'm researcher in the areas of observational astrophysics and robotic telescopes.
+  
+- ⚛️ Science advocate and popularizer, I write and maintain **[Espaço-Tempo](https://www.espacotempo.com.br)**, a website about Physics and Astronomy.
 
 - 🌟 I'm also Principal Software Engineer & Software Architect of **[Sinaxys](https://sinaxys.com)**, a deep-job platform for healthcare professionals; and co-founder of **[ContaExpert](https://www.contaexpert.com.br)**, an online accounting startup.
 
@@ -28,7 +30,7 @@
 
 ## Tech Stack
 
-**Ruby** (and the **Ruby on Rails** framework) is my main programming ecosystem since 2016. I'm also experienced in **JavaScript**, **TypeScript**, **C#/.NET Core** and **PHP**. I've used **Python** for scientific purposes only.
+**Ruby** (and the **Ruby on Rails** framework) is my main programming ecosystem since 2016. I'm also experienced in **JavaScript**, **TypeScript**, **C#/.NET Core** and **PHP**. I've used **Python** and **C++** for scientific purposes only.
 
 [![Tech Stack](https://skillicons.dev/icons?i=aws,ruby,cs,js,ts,php,python,cpp)](https://skillicons.dev)
 
