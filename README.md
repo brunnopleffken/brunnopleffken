@@ -2,7 +2,7 @@
 
 - 💼 **Software Engineer** from Curitiba, Brazil. Former **Professor** of Introduction to Programming Languages. Microsoft C# Certified Specialist (heading to AWS Solutions Architect), I have almost 20 years of computer science experience, specialized in programming languages, computer systems and infrastructure.
 
-- 🎓 Postgraduate in **High-Performance Computing (HPC)**. Bachelor's degree in **Physics** from Pontifical Catholic University of Paraná (PUCPR) where I'm researcher in the areas of observational astrophysics and robotic telescopes.
+- 🎓 Postgraduate in **High-Performance Computing**. B.Sc. in **Physics** from Pontifical Catholic University of Paraná (PUCPR). Researcher in the areas of observational astrophysics, robotic telescopes and image processing.
 
 - ⚛️ Science advocate and popularizer, I write and maintain **[Espaço-Tempo](https://www.espacotempo.com.br)**, a blog about Physics and Astronomy.
 
