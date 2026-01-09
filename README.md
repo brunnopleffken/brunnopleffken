@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-**Ruby** (and the **Ruby on Rails** framework) has been my main programming ecosystem since 2016. I'm also experienced in **.NET/C#**, **JavaScript**, **TypeScript** and **PHP**. I've used **Python** and **C++** for scientific purposes only. Currently learning Rust.
+**Ruby** (and the **Ruby on Rails** framework) has been my main programming ecosystem since 2016. I'm also experienced in **C#** and **.NET**, **JavaScript**, **TypeScript** and **PHP**. I've used **Python** and **C++** for scientific purposes only. Currently learning **Rust**.
 
 [![Tech Stack](https://skillicons.dev/icons?i=aws,rails,dotnet,cs,js,ts,php,python,cpp,rust)](https://skillicons.dev)
 
