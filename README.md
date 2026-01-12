@@ -30,6 +30,6 @@ Throughout my life I created some interesting open source projects:
 
 - [Enchanter](https://github.com/brunnopleffken/enchanter): form wizard plugin for Bootstrap 5 in vanilla JavaScript.
 - [Localizer.js](https://github.com/brunnopleffken/Localizer.js): real-time internationalization of websites in TypeScript.
-- [Addictive Framework](https://github.com/brunnopleffken/addictive-framework): lightweight open-source MVC framework in PHP.
+- [Lepton Framework](https://github.com/brunnopleffken/lepton-framework): lightweight open-source MVC framework in PHP.
 - Addictive Community: open-source forum software in PHP _(Deprecated)_.
 - Destiny Weapons Comparison: compare stats and perks for the game Destiny and Destiny 2 _(Deprecated)_.
