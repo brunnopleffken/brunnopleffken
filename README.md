@@ -1,8 +1,8 @@
 # Hi, I'm Brunno! 🖖🏻
 
-- 💼 **Software Engineer and Architect** from Curitiba, Brazil. Former **Professor** of Introduction to Programming Languages. I have almost two decades of experience in computer science, with an emphasis on web and systems programming, cloud infrastructure and software architecture.
+- 💼 **Software Engineer and Architect** from Curitiba, Brazil. Former **Professor** of Introduction to Programming Languages. I have two decades of experience in computer science, with an emphasis on web and systems programming, cloud infrastructure and software architecture.
 
-- 🎓 Postgraduate in **High-Performance Computing**. B.Sc. in **Physics** from Pontifical Catholic University of Paraná (PUCPR). Researcher in the areas of observational astrophysics, robotic telescopes and image processing. Member of the Brazilian Astronomical Society (SAB) and editor of the Brazilian Astronomy Union (UBA) journal.
+- 🎓 B.Sc. in **Physics** from Pontifical Catholic University of Paraná (PUCPR). Postgraduate in **Quantum Computing** (PUC Minas) and **High-Performance Computing**. Researcher in the areas of observational astrophysics, robotic telescopes and image processing. Member of the Brazilian Astronomical Society (SAB) and editor of the Brazilian Astronomy Union (UBA) journal.
 
 - ⚛️ Science advocate and popularizer, I write and maintain **[Espaço-Tempo](https://www.espacotempo.com.br)**, a blog teaching Physics and Astronomy.
 
@@ -32,4 +32,4 @@ Throughout my life I created some interesting open source projects:
 - [Localizer.js](https://github.com/brunnopleffken/Localizer.js): real-time internationalization of websites in TypeScript.
 - [Lepton Framework](https://github.com/brunnopleffken/lepton-framework): lightweight open-source MVC framework in PHP.
 - Addictive Community: open-source forum software in PHP _(Deprecated)_.
-- Destiny Weapons Comparison: compare stats and perks for the game Destiny and Destiny 2 _(Deprecated)_.
+- Destiny Weapons Comparison: compare stats and perks for the games Destiny and Destiny 2 _(Deprecated)_.
