@@ -8,14 +8,6 @@
 
 - 🌟 I'm also Principal Software Engineer & Head of Engineering at **[Sinaxys](https://sinaxys.com)**, a deep-job and payment platform for healthcare professionals; and co-founder of **[ContaExpert](https://www.contaexpert.com.br)**, an online accounting startup.
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=brunnopleffken&show_icons=true&hide_title=true">
-</picture>
-
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnopleffken&layout=compact&hide=html,css">
-</picture>
-
 ## Tech Stack
 
 **Ruby** (and the **Ruby on Rails** framework) has been my main programming ecosystem since 2016. I'm also experienced in **C#** and **.NET**, **JavaScript**, **TypeScript** and **PHP**. I've used **Python** and **C++** for scientific purposes only. Currently learning **Rust**.
